@@ -41,4 +41,6 @@ if soru1 == "Kiraz":
 else:
     print("Kaybettin...")
 
+input()
+
 
